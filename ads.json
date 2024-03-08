@@ -1,0 +1,37 @@
+{
+  "data": {
+    "is_gdpr": "0",
+    "name": "Ebook Pdf",
+    "logo_app": "",
+    "version": "1.0",
+    "link_play_store": "",
+    "email": "",
+    "website": "",
+    "share_text": "Download Aplikasi ",
+    "developer_page_url": "",
+    "ads": {
+      "ad_status": "1",
+      "ad_type_primary": "admob",
+      "primary_publisher_id": "0",
+      "primary_app_id": "ca-app-pub-3940256099942544~3347511713",
+      "primary_banner_id": "1095746034792668_1095746544792617",
+      "primary_inter_id": "ca-app-pub-3940256099942544/1033173712",
+      "primary_reward_id": "ca-app-pub-3940256099942544/5224354917",
+      "primary_native_id": "ca-app-pub-3940256099942544/2247696110",
+      "primary_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "ad_type_backup": "facebook",
+      "backup_publisher_id": "0",
+      "backup_app_id": "0",
+      "backup_banner_id": "0",
+      "backup_inter_id": "0",
+      "backup_reward_id": "0",
+      "backup_native_id": "0",
+      "backup_open_id": "0",
+      "native_ad_style_post_list": "medium",
+      "native_ad_style_exit_dialog": "medium",
+      "interstitial_ad_interval": "1",
+      "native_home": "1",
+      "keywords": "insurance,lawyer"
+    }
+  }
+}
