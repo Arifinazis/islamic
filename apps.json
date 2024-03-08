@@ -28,10 +28,8 @@
       "backup_reward_id": "0",
       "backup_native_id": "0",
       "backup_open_id": "0",
-      "native_ad_style_post_list": "medium",
-      "native_ad_style_exit_dialog": "medium",
+      "native_style_home": "medium",
       "interstitial_ad_interval": "1",
-      "native_home": "1",
       "keywords": "insurance,lawyer"
     }
   }
